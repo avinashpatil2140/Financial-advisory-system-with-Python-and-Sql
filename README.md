@@ -83,16 +83,5 @@ personal-finance-analytics/
 │── Problem Statement.pptx # Problem statements & project overview
 │── README.md # Project documentation
 
-
-
-
----
-
-## 👨‍💻 Author
-**Sumit Naresh Ghodke**  
-- Data Analytics Enthusiast  
-- Skills: SQL, Python, Data Visualization, Business Analytics, Data Analytics, Business Intelligence- PowerBI, Tableau. 
-- [LinkedIn](https://www.linkedin.com/in/sumit-ghodke-a45a82205/) | [GitHub](https://github.com/Sumitghodke16))
-
 ---
 
